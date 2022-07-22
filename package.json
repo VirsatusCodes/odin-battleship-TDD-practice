@@ -1,0 +1,30 @@
+{
+  "name": "odin-battleship-tdd-practice",
+  "version": "1.0.0",
+  "description": "creating the battleship board game using TDD (jest) to test most functions.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VirsatusCodes/odin-battleship-TDD-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VirsatusCodes/odin-battleship-TDD-practice/issues"
+  },
+  "homepage": "https://github.com/VirsatusCodes/odin-battleship-TDD-practice#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.1",
+    "eslint": "^8.20.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.73.0"
+  }
+}
