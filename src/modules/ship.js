@@ -1,5 +1,7 @@
-import search from '../img/search.png';
+export { ship };
 
 console.log('test');
 
-console.log(search);
+function ship() {
+  return 'works';
+}
